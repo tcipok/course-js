@@ -1,0 +1,40 @@
+
+
+
+body{
+  background-color: #171420;
+  color: #ffffff;
+  font-size: 14px;
+  *{
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+  }
+  ul{
+    padding: 0;
+    margin: 0;
+    li{
+      list-style-type: none;
+    }
+  }
+}
+
+@import 'import/header';
+
+
+@import "media";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

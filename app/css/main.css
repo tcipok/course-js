@@ -1,0 +1,14 @@
+body {
+  background-color: #ff5454;
+  color: #000;
+  font-size: 14px; }
+
+header {
+  color: #ec0c0c;
+  font-size: 12px;
+  background-color: #283042; }
+
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: #2b2c47;
+    color: #99e4ee; } }
